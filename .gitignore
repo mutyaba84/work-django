@@ -1,0 +1,26 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+
+
+# Ignore local development settings
+/local_settings.py
+
+# Ignore database file
+db.sqlite3
+
+# Ignore media files (uploads)
+/media/
+
+# Ignore static files
+/static/
+
+# Ignore virtual environment
+/venv/
+
+# Ignore IDE or editor files
+.vscode/
+.idea/
+*.pyproj
+*.pycproj
