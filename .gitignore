@@ -4,8 +4,7 @@ __pycache__/
 
 
 
-# Ignore local development settings
-/local_settings.py
+
 
 # Ignore database file
 db.sqlite3
@@ -22,5 +21,4 @@ db.sqlite3
 # Ignore IDE or editor files
 .vscode/
 .idea/
-*.pyproj
-*.pycproj
+
